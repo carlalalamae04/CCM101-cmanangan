@@ -1,1 +1,1 @@
-
+My name is Carla Mae G. Manangan. I am a BSIT student interested in learning about cloud computing. I am looking forward to developing my technical skills and gaining practical experience in cloud infrastructure.
