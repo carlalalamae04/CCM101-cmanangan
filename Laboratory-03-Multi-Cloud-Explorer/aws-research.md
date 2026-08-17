@@ -35,3 +35,7 @@ AWS can be used by enterprises for:
 - E-commerce applications
 - Artificial intelligence and machine learning
 - Application hosting
+
+## Screenshot
+
+![AWS Homepage](screenshots/aws-homepage.png)
