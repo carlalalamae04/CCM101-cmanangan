@@ -35,3 +35,7 @@ Azure can be used by enterprises for:
 - Databases
 - Web applications
 - Hybrid cloud environments
+
+## Screenshot
+
+![Azure Homepage](screenshots/azure-homepage.png)
