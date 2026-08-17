@@ -35,3 +35,7 @@ Google Cloud can be used by enterprises for:
 - Kubernetes applications
 - Cloud databases
 - Large-scale data processing
+
+## Screenshot
+
+![Google Cloud Homepage](screenshots/gcp-homepage.png)
