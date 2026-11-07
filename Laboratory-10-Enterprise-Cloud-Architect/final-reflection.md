@@ -1,4 +1,4 @@
-** FINAL REFLECTION **
+**FINAL REFLECTION**
 This project demonstrates how a multi-tier web application can be operated using virtualization, Linux, Docker, and Docker Compose  . WordPress provides the website interface, while MySQL stores its content and related data  . Network configuration allows the website to be accessed from the host computer, and firewall rules and database access restrictions contribute to the security of the environment  .
 The testing procedures help verify application availability, database operation, and data persistence. The database backup script and Cron schedule provide a foundation for routine data protection and automation. Maintenance commands and troubleshooting procedures help identify common operational problems.
 Through this activity, the team gained practical experience in inspecting configuration files, operating containers, reviewing logs, applying basic security controls, creating backups, and documenting maintenance procedures. These skills are important for operating reliable and maintainable cloud-based services.
